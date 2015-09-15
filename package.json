@@ -1,0 +1,22 @@
+{
+  "name": "npm-test-songhe",
+  "version": "0.0.1",
+  "description": "test npm publish ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bluemsn/npm-test-songhe.git"
+  },
+  "keywords": [
+    "npm-test"
+  ],
+  "author": "bluemsn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluemsn/npm-test-songhe/issues"
+  },
+  "homepage": "https://github.com/bluemsn/npm-test-songhe#readme"
+}
