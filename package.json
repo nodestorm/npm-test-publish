@@ -1,5 +1,5 @@
 {
-  "name": "npm-test-songhe",
+  "name": "npm-test-publish",
   "version": "0.0.1",
   "description": "test npm publish ",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/bluemsn/npm-test-songhe.git"
+    "url": "git+ssh://git@github.com/nodestorm/npm-test-publish.git"
   },
   "keywords": [
-    "npm-test"
+    "npm"
   ],
-  "author": "bluemsn",
+  "author": "nodestorm",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bluemsn/npm-test-songhe/issues"
+    "url": "https://github.com/nodestorm/npm-test-publish/issues"
   },
-  "homepage": "https://github.com/bluemsn/npm-test-songhe#readme"
+  "homepage": "https://github.com/nodestorm/npm-test-publish.git"
 }
